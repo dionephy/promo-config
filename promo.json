@@ -1,11 +1,11 @@
 {
   "default": {
-    "enabled": true,
+    "enabled": false,
     "banners": []
   },
   
   "com.wynd.memoryalarm": {
-    "enabled": false,
+    "enabled": true,
     "banners": [
       {
         "title": "🎉 신규 기능 출시!",
