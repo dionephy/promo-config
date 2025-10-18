@@ -5,7 +5,7 @@
   },
   
   "com.wynd.memoryalarm": {
-    "enabled": true,
+    "enabled": false,
     "banners": [
       {
         "title": "🎉 신규 기능 출시!",
